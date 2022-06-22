@@ -1,1 +1,1 @@
-A basic recipe website utilizing the knowledge gained from the section Foundational HTML of TOP.
+A recipe website utilizing the knowledge gained from Foundational HTML section of TOP.
