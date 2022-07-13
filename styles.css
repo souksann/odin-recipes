@@ -1,0 +1,36 @@
+/* Index Main Page */
+
+/* Title */
+
+h1 {
+    color: rgba(169, 8, 18, 0.743);
+    background-color: rgba(127, 255, 212, 0.552);
+    text-align: center;
+    font-size: 125px;
+    font-family: Helvetica;
+}
+
+/* All Foods */
+
+ul {
+    color: white;
+    font-weight: bold;
+    font-size: 50px;
+    text-align: center;
+}
+
+/* Farmer's Breakfast */
+
+#breakfast {
+    background-color: rgb(255, 238, 0);
+}
+
+/* Crowned Pie */
+
+#pie {
+    background-color: rgba(165, 42, 42, 0.696);
+}
+
+#rice {
+    background-color: rgb(1, 50, 1);
+}
